@@ -1,0 +1,7 @@
+Function calculate_subtotal
+Default menu normal input test #2 did not pass. Result 10.280000000000001 is not rounded to two decimals.
+
+Function summarize_order
+All test cases passed.
+Function calculate_tax
+All test cases passed.
